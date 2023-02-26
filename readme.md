@@ -10,7 +10,7 @@
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=AI-Stratov&repo=ytdx">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=AI-Stratov&repo=pixel-weather">
 </p> -->
-
+https://www.codewars.com/users/Lemegeton/badges/large
 
 <!--
 Here are some ideas to get you started:
